@@ -3,5 +3,18 @@
 	position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -120%);
+  transform: translate(-50%, -100%);
+}
+
+.input_form{
+	height: 6.7%;
+	width: 43%;
+		position: absolute;
+	top: 60%;
+  	left: 50%;
+  	transform: translate(-50%, -60%);
+  	font-size: 100%;
+  	border-width: 2px;
+  	box-shadow-bottom: 0.5px 0.5px grey;
+  	border-style: groove;
 }
